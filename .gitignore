@@ -1,0 +1,15 @@
+# Eclipse and Java build files
+.settings/
+.project
+.classpath
+bin/
+target/
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Serialized data or logs (optional)
+app_state.ser
+*.log
